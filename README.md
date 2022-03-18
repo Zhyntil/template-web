@@ -1,1 +1,1 @@
-# This is a project for Dasmoto arts and crafts CAcademy project.
+# This is a basic web template repo for HTML, CSS, and JS.
