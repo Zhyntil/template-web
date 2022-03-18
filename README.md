@@ -1,1 +1,1 @@
-# This is a template for Web projects using HTML, CSS, and JavaScript.
+# This is a project for Dasmoto arts and crafts CAcademy project.
